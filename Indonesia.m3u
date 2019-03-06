@@ -40,7 +40,7 @@ http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomai
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="Indonesia",TVRI NASIONAL
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://202.80.222.130/000001/2/ch14041511560872104862/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="Indonesia",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -75,7 +75,9 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 group-title="Indonesia",SALING SAPA
 http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia",PRIVE HD
+#EXTINF:-1 group-title="Indonesia",BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 group-title="Indonesia",PRIVE HD
 
 
