@@ -84,10 +84,15 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="Indonesia",SPACETOON
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
+#EXTINF:-1 group-title="Indonesia",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia",KIX
-#EXTINF:-1 group-title="Indonesia",KIX
-#EXTINF:-1 group-title="Indonesia",KIX
+#EXTINF:-1 group-title="Indonesia",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 group-title="Indonesia",CINEMA WORLD
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+
 #EXTINF:-1 group-title="Indonesia",KIX
 #EXTINF:-1 group-title="Indonesia",KIX
 #EXTINF:-1 group-title="Indonesia",KIX
