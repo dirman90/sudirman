@@ -105,4 +105,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 group-title="Indonesia",INSAN TV
 http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 
+#EXTINF:-1 group-title="Indonesia",SHE
+http://210.210.155.35/uq2663/h/h10/index.m3u8
+
 #EXTINF:-1 group-title="Indonesia",KIX
