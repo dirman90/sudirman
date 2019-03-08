@@ -15,10 +15,18 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:-1 group-title="Arabian",MY DOCUMENTARY
 http://m-iptv.net:6204/ali010/ali010/9588
 
-#EXTINF:-1 group-title="Arabian",TV NAME
-#EXTINF:-1 group-title="Arabian",TV NAME
-#EXTINF:-1 group-title="Arabian",TV NAME
-#EXTINF:-1 group-title="Arabian",TV NAME
+#EXTINF:-1 group-title="Arabian",MAKKAH TV
+http://jmc-live.ercdn.net/makkahtv/makkahtv_576p.m3u8
+
+#EXTINF:-1 group-title="Arabian",ALJAZEERA ARABIC
+http://45.126.83.51/qwr9ew/s/s16/index2.m3u8
+
+#EXTINF:-1 group-title="Arabian",STAR WORLD
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+#EXTINF:-1 group-title="Arabian",CARTOON NETWORK
+http://95.170.215.124/live/disk1/CN_Arabia/anevia1/CN_Arabia-video=1279600-audio_AACL_eng_160000_34=160000.m3u8
+
 #EXTINF:-1 group-title="Arabian",TV NAME
 #EXTINF:-1 group-title="Arabian",TV NAME
 #EXTINF:-1 group-title="Arabian",TV NAME
