@@ -1,13 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Arabian",E NEWS
-http://210.210.155.35/uq2663/h/h10/index.m3u8
+#EXTINF:-1 group-title="Arabian",DUBAI SPORT
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
-#EXTINF:-1 group-title="Arabian",TV NAME
+#EXTINF:-1 group-title="Arabian",STADIUM SPORT
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
-#EXTINF:-1 group-title="Arabian",TV NAME
-#EXTINF:-1 group-title="Arabian",TV NAME
-#EXTINF:-1 group-title="Arabian",TV NAME
+#EXTINF:-1 group-title="Arabian",AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 group-title="Arabian",AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 group-title="Arabian",MY DOCUMENTARY
+http://m-iptv.net:6204/ali010/ali010/9588
+
 #EXTINF:-1 group-title="Arabian",TV NAME
 #EXTINF:-1 group-title="Arabian",TV NAME
 #EXTINF:-1 group-title="Arabian",TV NAME
