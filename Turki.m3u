@@ -1,0 +1,77 @@
+#EXTM3U
+
+
+#EXTINF:0,Turkish beIN Sports 1 (TR)
+http://www.freeiptvdaily.net:8000/live/wwdLsprV3j/fYKwAA4Yzx/11.ts
+
+#EXTINF:0,WW: TRT NEWS TR ENGLISH
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:0,Star
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0,NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:0,TEVE 2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+
+#EXTINF:0,DMAX
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:0,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:0,A SPOR HD
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+
+#EXTINF:0,YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+
+#EXTINF:0,CNN TURK HD (1)
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:0,CNN TURK HD (2)
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+
+#EXTINF:0,CNN TURK HD (3)
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+
+#EXTINF:0,CNN TURK SD
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+
+#EXTINF:0,TGRT HABER
+https://5ab9557ae2fa9.streamlock.net/tgrt_haber/amlst:live-25/chunklist_w1011305533_b1200096.m3u8
+
+#EXTINF:0,A HABER (2)
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+
+#EXTINF:0,KANAL D (2)
+http://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+#EXTINF:0,KANAL D (3)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+
+#EXTINF:0,KANAL D (4)
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+
+#EXTINF:0,EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+
+#EXTINF:0,UCAN KUS TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+
+#EXTINF:0,ATV (1)
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+
+#EXTINF:0,TLC
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+
+#EXTINF:0,D MAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:0,TRT BELGESEL (2)
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:0,TRT TURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
